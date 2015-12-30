@@ -116,6 +116,7 @@ nvidia-smi -q
 ## other resources
 * [docker installation](https://docs.docker.com/v1.5/installation/ubuntulinux/)
 * [nvidia-docker](https://github.com/NVIDIA/nvidia-docker)
+* [DIGITS server container] (https://github.com/lukeforehand/nvidia-docker/tree/master/samples/ubuntu/digits)
 
 ## what to do next
 * create a container registry to version and share containers with your team
