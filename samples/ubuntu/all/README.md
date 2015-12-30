@@ -114,10 +114,8 @@ nvidia-smi -q
 ```
 
 ## other resources
-* [this gist](https://gist.github.com/lukeforehand/2f041e6badc78fba8c83)
 * [docker installation](https://docs.docker.com/v1.5/installation/ubuntulinux/)
 * [nvidia-docker](https://github.com/NVIDIA/nvidia-docker)
-* [my fork of nvidia-docker](https://github.com/lukeforehand/nvidia-docker)
 
 ## what to do next
 * create a container registry to version and share containers with your team
