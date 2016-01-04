@@ -113,12 +113,11 @@ nvidia-smi -q
 0_Simple/vectorAdd/vectorAdd
 ```
 
-## other resources
+## other resources and examples
 * [docker installation](https://docs.docker.com/v1.5/installation/ubuntulinux/)
 * [nvidia-docker](https://github.com/NVIDIA/nvidia-docker)
 * [DIGITS server container] (https://github.com/lukeforehand/nvidia-docker/tree/master/samples/ubuntu/digits)
+* [docker replacement for macports] (https://github.com/dbogen/docker-macports-replacement-scripts)
 
 ## what to do next
 * create a container registry to version and share containers with your team
-* learn how environment variables can be used to customize a container for specific hardware
-
